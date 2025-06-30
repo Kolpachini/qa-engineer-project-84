@@ -11,7 +11,7 @@ test-cases:
       Google Chrome 137.0.7151.69 (Официальная сборка) (32 бит)
       OC Windows 10
     steps-to-reproduce: |
-      1. Перейти на сайт https://products-store-git-v2bugfixes-hexlet-components.vercel.app/
+      1. Перейти на сайт 
       2. Добавить несколько товаров в корзину
       3. Перейти в корзину и посмотреть общую сумму товаров
     expected-result: |
