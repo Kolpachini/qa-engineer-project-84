@@ -185,7 +185,7 @@
   prerequisites:
     Открыт DevTools
   test-data: |
-    Устройство = iPhone,iPad,
+    Устройство = iPhone, iPad, Galaxy Note 20 
   steps:
     - Нажимаем на режим адаптивного дизайна
     - Выбираем устройство
