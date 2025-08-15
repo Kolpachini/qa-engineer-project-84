@@ -125,7 +125,7 @@ bugreports:
   steps-to-reproduce: |
     1. Открыта главная страница сайта
     2. Переходим на следующую страницу каталога
-   expected-result: |
+  expected-result: |
     Ассортимент товара совпадает с первой версией сайта
-   actual-result: |
+  actual-result: |
     Неполный ассортимент товара
